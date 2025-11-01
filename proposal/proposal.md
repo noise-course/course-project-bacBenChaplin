@@ -8,14 +8,6 @@
 
 ## Project Description
 
-One paragraph description of your project. Summarize the following:
-* Problem statement
-* Why it is important problem
-* How it relates to the theme of the course (e.g., what is the intersection
-  with networking and ML?).
-* Any related work you are aware of
-* What is the goal? Research? Tech transfer? Reproducing a result?
-
 ### Project Summary
 The problem is to identify/classify the operating system that sent each 100
 packet sample in the dataset. OS detection is important for a variety of
