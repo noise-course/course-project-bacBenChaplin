@@ -26,10 +26,10 @@ This project tackles the OS fingerprinting challenge from the nPrint leaderboard
 
 ## Data Files
 - Originally, I wanted to add the data to the github, but they are too large. Please find them for download in the [Google Drive](https://drive.google.com/drive/folders/1vXRKuW0KuB50WY1vgi5GFwIn-coFk_25?usp=sharing)
-- `data/100-packet-traffic.pcapng` - Original dataset
-- `data/clean-traffic.pcap` - Processed PCAP file
-- `data/print.npt` - nPrint feature file
-- `AutogluonModels/ag-*` - AutoGluon models
+- `final/data/100-packet-traffic.pcapng` - Original dataset
+- `final/data/clean-traffic.pcap` - Processed PCAP file
+- `final/data/print.npt` - nPrint feature file
+- `final/AutogluonModels/ag-*` - AutoGluon models
 
 ## IMPORTANT Note on AutoGluon Models
 I have uploaded the autogluon models into this [Google Drive](https://drive.google.com/drive/folders/1vXRKuW0KuB50WY1vgi5GFwIn-coFk_25?usp=sharing) because I dont want to spend a ton of time training them if you run them. Github doesnt support files this large, so I couldn't put it there. Just create a directory `final/AutogluonModels` and put the models there. If you want to train them, uncomment the relevant code.
